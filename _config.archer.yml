@@ -12,7 +12,7 @@ social:
   # wechat should be a path of qr-code image path
   wechat: /assets/qr-wechat.png
   # qq should be a path of qr-code image path
-  qq: 20145438
+  qq: 
   telegram: sunyazhou
   weibo: sunyazhou
   zhihu: sunyazhou
